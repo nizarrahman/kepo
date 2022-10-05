@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':222,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/Rlxfly/re-md',
+'mediaUrl': 'http://instagram.com/nizarrrahman.f_',
 'mediaType': 2,
 'previewType': 2,
 'title': 'Searching Source Code?',
 'body': me,
 'thumbnail': thumb2,
-'sourceUrl': 'https://www.youtube.com/watch?v=qBJ0F9Ecax0'}},
-'caption': 'http://github.com/Rlxfly/re-md',
+'sourceUrl': 'https://instagram.com/nai-developer'}},
+'caption': 'http://github.com/Rlxfly/nizarrahman',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
