@@ -59,7 +59,7 @@ global.fla = [
 
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Rʟxғʟʏ 」\n\t\t「 IG: rlxfly.uw 」\n\t\t「 SC: github.com/Rlxfly/re-md 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Nizar 」\n\t\t「 IG: nizarrrahman.f_ 」\n\t\t「 SC: instagram.com/nai_developer 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
