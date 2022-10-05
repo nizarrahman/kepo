@@ -2,7 +2,7 @@ function handler(m) {
   
   const kontak = {
 	"displayName": 'My owner',
-	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${conn.getName('6283820073017@s.whatsapp.net')}\nitem1.TEL;waid=6283820073017:6283820073017\nitem1.X-ABLabel:Busy.\nURL;My Web: https://hi.rlxfly.my.id\nEMAIL;Email Owner: me@rlxfly.my.id\nORG: NOT A BOT + NO SAVE\nTEL;My number bot;waid=6287845646738:6287845646738\nEND:VCARD`
+	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${conn.getName('6281386945391@s.whatsapp.net')}\nitem1.TEL;waid=6281386945391:6281386945391\nitem1.X-ABLabel:Busy.\nURL;My Web: https://nizarrahman.000webhostapp.com/\nEMAIL;Email Owner: https://nizarrahman.000webhostapp.com/\nORG: NOT A BOT + NO SAVE\nTEL;My number bot;waid=79112173741:79112173741\nEND:VCARD`
 }
 
 conn.sendMessage(m.chat, { contacts: { contacts: [kontak] }}, { quoted: m })
