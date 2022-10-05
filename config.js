@@ -4,9 +4,9 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 838-2007-3017', 'Rᴇ7.yu'],
-  ['+62 878-2765-9529'],
-  ['+62 852-4075-0713']
+  ['+62 813-8694-5391', 'Nizar'],
+  ['+62 812-2361-8476', 'irham'],
+  ['+62 831-2024-0903', 'Adryan'
 ]
 
 
@@ -66,7 +66,7 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ꭱʟxғʟʏ - 2022'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Nizar Rahman - 2022'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
